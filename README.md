@@ -3,6 +3,12 @@ by Unit02Games is a tutorial series where he guides on how to build utility tool
 
 [Visit the tutorial](https://www.youtube.com/playlist?list=PLdgLYFdStKu3Fxm9VWKLk6W4Uddtp0P9d)
 
+## UnityToolsTutorial_original
+contains the original source code from the tutorial. All credits go to unit02games.
+
+[Download here](https://unit02games.itch.io/tilemap-editor-source-code)
+
+
 # Why I am following this tutorial
 i am currently working on a prototype for an Advance Wars styled game where map creation is done by writing C# code so far, thus making it impossible to edit for a designer.
 
